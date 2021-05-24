@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 初めてGithubをつかうのでご容赦ください
 
 <!--
 **toshiki99310/toshiki99310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
